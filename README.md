@@ -89,3 +89,7 @@ http://localhost:8765/currency-conversion-new/from/AUD/to/INR/quantity/10
 
 
 
+
+H2 - DATABASE CONSOLE:- In memory database
+
+http://localhost:8000/h2-console
