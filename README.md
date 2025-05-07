@@ -80,7 +80,9 @@ http://localhost:8765/currency-conversion-service/currency-conversion/from/AUD/t
 Custom Routing
 
 http://localhost:8765/currency-exchange/from/AUD/to/INR
+
 http://localhost:8765/currency-conversion/from/AUD/to/INR/quantity/10
+
 http://localhost:8765/currency-conversion-feign/from/AUD/to/INR/quantity/10
 
 http://localhost:8765/currency-conversion-new/from/AUD/to/INR/quantity/10
